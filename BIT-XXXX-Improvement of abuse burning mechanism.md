@@ -13,13 +13,21 @@
 Based on our statistics, the current miner's emission burning situation as follows:
 
 **42** Subnets: **No burning**.
+
 **3** Subnets: Miner's emission burning ratio between **10% and 30%**.
+
 **5** Subnets: Miner's emission burning ratio between **40% and 50%**.
+
 **6** Subnets: Miner's emission burning ratio between **60% and 70%**.
+
 **9** Subnets: Miner's emission burning ratio between **70% and 80%**.
+
 **1** Subnets: Miner's emission burning ratio between **80% and 90%**.
+
 **4** Subnets: Miner's emission burning ratio between **90% and 95%**.
+
 **5** Subnets: Miner's emission burning ratio between **95% and 99.99%**.
+
 **53** Subnets: Miner's emission burning ratio is **100%**.
 
 ---
